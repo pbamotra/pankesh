@@ -5,24 +5,17 @@ title: About me
 subtitle: Biography and contact information
 ---
 
-I'm Rafael, a brazilian software developer currently living on the beautiful Barcelona.
+I'm Pankesh Bamotra, a computer vision research engineer based out of the evergreen city of Seattle.
 
-Currently working at [Smart Focus][smartfocus], where I help to build a better marketing platform to send messages for billions of clients every month. Before that I've worked in a few startups such as [Creditas][creditas], one of the most exciting products of FinTech market in Brazil, and also helped bring [Tripda][tripda] to life.
-
-I use to speak about front-end stuff at some local meetup groups, and I've presented sessions at [The Developers Conference][tdc] in 2014 and 2015.
+Currently working at [Coupang USA][coupang], where I work on developing computer vision products to do things like [Visual search][ms-vs] and [Sponsored search][ss]. Before that I've worked at [PayPal][paypal] India, where I worked as a backend software engineer to build data solutions for analysts.
 
 Find me on [Twitter][twitter], [Github][github] or [Linkedin][linkedin]
 
-<!-- Feel free to contact me at [sonny.webdsg at gmail dot com][email]. -->
-
-
-[me]: /assets/images/me.jpg
-[gft]: https://gft.com
-[smartfocus]: https://www.smartfocus.com/
-[tdc]: http://www.thedevelopersconference.com.br
-[email]: mailto:sonny.webdsg[at]gmail[dot]com
-[twitter]: https://twitter.com/rafaelllycan
-[github]: https://github.com/rafaell-lycan
-[linkedin]: https://www.linkedin.com/in/rafaelllycan
-[creditas]: https://www.creditas.com.br/
-[tripda]: https://www.crunchbase.com/organization/tripda
+[coupang]: https://www.coupang-usa.com/
+[ms-vs]: https://www.bing.com/visualsearch
+[ss]: https://en.wikipedia.org/wiki/Sponsored_search_auction
+[paypal]: https://www.paypal.com
+[email]: mailto:contact[at]pankesh[dot]com
+[twitter]: https://twitter.com/__pbamotra__
+[github]: https://github.com/pbamotra
+[linkedin]: https://www.linkedin.com/in/pbamotra

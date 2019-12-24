@@ -39,7 +39,9 @@ navigation:
   - text: Articles
     url: /articles
     active: articles
-
+  - text: About
+    url: /about
+    active: about
 
 social:
   name:         Pankesh Bamotra
