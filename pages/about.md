@@ -5,9 +5,11 @@ title: About me
 subtitle: Biography and contact information
 ---
 
+<a href="/assets/docs/resume.pdf"><tt>Resume (PDF)</tt></a>
+
 I'm Pankesh Bamotra, a computer vision research engineer based out of the evergreen city of Seattle.
 
-Currently working at [Coupang USA][coupang], where I work on developing computer vision products to do things like [Visual search][ms-vs] and [Sponsored search][ss]. Before that I've worked at [PayPal][paypal] India, where I worked as a backend software engineer to build data solutions for analysts.
+Currently working at [Coupang USA][coupang], I develop computer vision products to do things like [Visual search][ms-vs] and [Sponsored search][ss]. Before that I've worked at [PayPal][paypal] India, where I was a backend software engineer building data solutions for analysts.
 
 Find me on [Twitter][twitter], [Github][github] or [Linkedin][linkedin]
 
