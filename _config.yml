@@ -1,0 +1,129 @@
+# Metadata
+title:          Pankesh Bamotra
+description:    >
+                This is my localhost, where I (randomly) write about programming, the web, life and/or photography.
+keywords:       >
+                pankesh, bamotra, machine learning, economics, politics, india, deep learning
+logo:           /assets/icons/favicon-192x192.png
+image:          /assets/images/me.jpg
+url:            https://pankesh.com
+repository:     pbamotra/pankesh
+rss:            https://feeds.feedburner.com/pankesh
+lang:           pt_BR
+
+# Author Informations
+author:
+  name:         Pankesh Bamotra
+  first_name:   Pankesh
+  last_name:    Bamotra
+  email:        contact@pankesh.com
+  location:     seattle
+  twitter:      __pbamotra__
+  github:       pbamotra
+  gravatar:     
+
+# Config
+conf:
+  g_verify:     is8mm-37ZmRQRNpjSYTfbz04_IfDc5F_ya2IqJFvXpY
+  gtm_id:       GTM-TMXCXRD
+  disqus_name:  
+  theme_color:  "#5fbffd"
+
+webmaster_verifications:
+  google: is8mm-37ZmRQRNpjSYTfbz04_IfDc5F_ya2IqJFvXpY
+
+navigation:
+  - text: Home
+    url: /
+    active: false
+  - text: Articles
+    url: /articles
+    active: articles
+
+
+social:
+  name:         Pankesh Bamotra
+  links:
+    - https://twitter.com/__pbamotra__
+    - https://www.facebook.com/pbamotra
+    - https://github.com/pbamotra
+    - https://www.linkedin.com/in/pbamotra/
+
+twitter:
+  username:     __pbamotra__
+
+facebook:
+  app_id:       
+
+# Collections
+collections:
+  trips:
+    output: false
+    permalink: /trips/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "trips"
+    values:
+      layout: trip
+
+# Paths
+baseurl: ""
+asset_path:     "assets"
+
+# Conversion
+markdown:       kramdown
+highlighter:    rouge
+kramdown:
+  input:        GFM
+  syntax_highlighter: rouge
+  parse_block_html: true
+
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Output
+permalink:      /:year/:title/
+paginate:       10
+paginate_path:  "/articles/page/:num/"
+future:         false
+show_drafts:    false
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-pagination
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-github-metadata
+  - jemoji
+
+# Reading
+exclude:
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - _scripts
+  - package.json
+  - gulpfile.js
+  - webpack.config.js
+  - README.md
+
+compress_html:
+  clippings: all
+  comments: ["<!--[if ", "<![endif]-->"]
+  endings: all
+  startings: [body]
+  profile: false
+  blanklines: false

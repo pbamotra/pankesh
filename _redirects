@@ -1,0 +1,3 @@
+
+# Redirect default Netlify subdomain to primary domain
+https://pankesh.netlify.com/* https://www.pankesh.com/:splat 301!
