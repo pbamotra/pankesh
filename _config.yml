@@ -42,6 +42,9 @@ navigation:
   - text: About
     url: /about
     active: about
+  - text: Reading 2020
+    url: /books2020
+    active: books2020
 
 social:
   name:         Pankesh Bamotra
