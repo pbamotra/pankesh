@@ -8,9 +8,12 @@ Topic: *History*
 
 * <span style="color: gray; text-decoration: line-through;">Arundhati Roy, B. Ambedkar, Annihilation of caste</span>
 * <span style="color: gray; text-decoration: line-through;">Alex von Tunzelmann, Indian Summer</span>
-* **Rachel Fell McDermott, <span style="color: green">Sources of Indian Traditions</span>**
 * Nisid Hajari, Midnight's Furies 
 * Howard Zinn, A People's History of the United States
+
+Topic: *Guides*
+
+* **Kapil Gupta, <span style="color: green">Atmamun</span>**
 
 Topic: *Stories*
 
