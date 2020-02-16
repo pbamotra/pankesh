@@ -7,8 +7,8 @@ subtitle: Books I'm reading in 2020
 Topic: *History*
 
 * <span style="color: gray; text-decoration: line-through;">Arundhati Roy, B. Ambedkar, Annihilation of caste</span>
-* **Alex von Tunzelmann, <span style="color: green">Indian Summer</span>**
-* Rachel Fell McDermott, Sources of Indian Traditions
+* <span style="color: gray; text-decoration: line-through;">Alex von Tunzelmann, Indian Summer</span>
+* **Rachel Fell McDermott, <span style="color: green">Sources of Indian Traditions</span>**
 * Nisid Hajari, Midnight's Furies 
 * Howard Zinn, A People's History of the United States
 
